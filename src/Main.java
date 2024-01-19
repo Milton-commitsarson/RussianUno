@@ -8,8 +8,19 @@ färg, nummer, och specialkort
 
  */
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Scanner myScanner = new Scanner(System.in);
+
+
+        System.out.println("Russian UNO");
+        System.out.println("Press s to start");
+        String game = myScanner.nextLine();
+        if (game.equals("s")) {
+            new Spel();
+        }
+
     }
 }

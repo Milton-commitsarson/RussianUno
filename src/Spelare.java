@@ -1,2 +1,5 @@
 public class Spelare {
+
+
+
 }
