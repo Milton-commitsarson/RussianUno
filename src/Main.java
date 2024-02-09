@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner myScanner = new Scanner(System.in);
+        /*Scanner myScanner = new Scanner(System.in);
 
 
         System.out.println("Russian UNO");
@@ -20,7 +20,7 @@ public class Main {
         String game = myScanner.nextLine();
         if (game.equals("s")) {
             new Spel();
-        }
-
+       }*/
+        new Spel();
     }
 }

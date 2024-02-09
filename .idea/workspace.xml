@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f22789bf-7e47-4600-a630-c1d32b1ea602" name="Changes" comment="2">
+    <list default="true" id="f22789bf-7e47-4600-a630-c1d32b1ea602" name="Changes" comment="pause">
+      <change afterPath="$PROJECT_DIR$/src/Bord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kortlek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwapKort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Kort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -25,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -50,6 +56,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Russian Uno" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +83,13 @@
       <workItem from="1705060949701" duration="1253000" />
       <workItem from="1705307806261" duration="297000" />
       <workItem from="1705569739423" duration="3111000" />
-      <workItem from="1705663126716" duration="2912000" />
+      <workItem from="1705663126716" duration="4285000" />
+      <workItem from="1706174211337" duration="4219000" />
+      <workItem from="1706268860331" duration="5385000" />
+      <workItem from="1706779773131" duration="3355000" />
+      <workItem from="1706872928818" duration="4432000" />
+      <workItem from="1707147449913" duration="9918000" />
+      <workItem from="1707384415909" duration="5243000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <option name="closed" value="true" />
@@ -81,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705060213242</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pause">
+      <option name="closed" value="true" />
+      <created>1705666318362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705666318362</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="pause" />
+    <option name="LAST_COMMIT_MESSAGE" value="pause" />
   </component>
 </project>
